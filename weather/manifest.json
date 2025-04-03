@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Striver DSA Sheet Helper",
+  "version": "1.0",
+  "description": "Displays Striver DSA Sheet question numbers and links",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "cloudy.png"
+      
+    }
+  }
+}
